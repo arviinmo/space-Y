@@ -6,9 +6,9 @@
 }
 
 body {
-  background-color: #14273d;
+  background-color: #172e47;
   font-weight: 700;
-  color: #fff;
+  color: #ffffff;
   font-size: 21px;
   font-family: "be vietnam";
   overflow: hidden;
@@ -49,7 +49,7 @@ li:nth-child(2) {
 }
 
 .nav-link:not(:first-of-type) {
-  background-color: #17375b;
+  background-color: #17375c;
 }
 
 .nav-link:not(:first-of-type):hover {
@@ -71,7 +71,7 @@ li:nth-child(2) {
 
 .hero-section-content h3 {
   margin-top: -40px;
-  color: #4475e2;
+  color: #4373da;
 }
 
 .hero-section-content hr{
@@ -83,7 +83,6 @@ li:nth-child(2) {
     border: none;
     outline: none;
     padding: 15px 45px;
-    background: ;
     border-radius: 50px;
     font-size: 22px;
     color: #fff;
